@@ -1,0 +1,59 @@
+
+@font-face { font-family: Monofonto; src: url('http://www.mediafont.com/storage/contents/523/font.eot'); /* IE */ src: local('Monofonto'), url('http://www.mediafont.com/storage/contents/523/MONOFONT.TTF'); /* non-IE */ }
+
+head {}
+
+.class1 {color:#00FF78;}
+
+.contrast {-webkit-filter:contrast(160%);}
+.brightness {-webkit-filter: brightness(40);}
+
+body {background: black;
+	padding:20px;
+	font-size: 50px;
+}
+
+img {position: absolute;opacity: .25;width:1350px;}
+
+
+.inner {
+	
+	height:100%;
+	opacity: 1.0;
+	
+	}
+
+
+#left{float:left;padding-left: 24%; }
+#right{float:right;padding-right: 22.5%; }
+
+h1 {color: #00FF78;
+font-family:"Monofonto";
+font-weight:bold;
+font-size: 60px;
+text-transform: uppercase;}
+
+h2 {text-align:left;font-weight: bold; font-size: 30px; text-transform: uppercase;}
+
+p {color: #00FF78;
+font-family:"Monofonto";
+text-align: left;
+font-size: 22px;
+text-transform: uppercase;
+
+}
+li {color: #00FF78;
+font-family:"Monofonto";text-align: left;	font-size: 16px; text-transform: uppercase;}
+
+h4,h3 {color: #00FF78 ;
+font-family:"Monofonto";
+font-size: 20px; text-transform: uppercase;}
+
+div {font-family:"Monofonto";
+color: #00FF78; text-transform: uppercase;}
+
+.professional-experience {}
+.education {}
+.interests{}
+.skills{}
+.awards{}
